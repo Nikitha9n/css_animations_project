@@ -11,17 +11,18 @@ CSS3
 JavaScript
 
 # Features
-  Hover effect with scaling animation
-  Click event greeting message
-  Button-triggered dance animation
-  DOM manipulation using JavaScript
-  CSS transforms and transitions
+- Hover effect with scaling animation
+- Click event greeting message
+- Button-triggered dance animation
+- DOM manipulation using JavaScript
+- CSS transforms and transitions
+- Interactive UI using event handling
 
 # What I Learned
-  Event handling with addEventListener()
-  DOM selection using querySelector()
-  Using event.target and closest()
-  CSS transform, scale, and rotate
-  Animations using setTimeout()
+- Event handling with `addEventListener()`
+- DOM selection using `querySelector()`
+- Using `event.target` and `closest()`
+- CSS `transform`, `scale`, and `rotate`
+- Animations using `setTimeout()`
 
 
